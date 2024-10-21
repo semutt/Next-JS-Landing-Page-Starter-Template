@@ -27,7 +27,7 @@ const Hero = () => (
         title={
           <>
             {'Hello the modern landing page for\n'}
-            <span className="text-primary-500">React developers</span>
+            <span className="text-primary-500">Genk3 developers</span>
           </>
         }
         description="The easiest way to build a React landing page in seconds."
